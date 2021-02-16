@@ -10,3 +10,11 @@ My take on the popular Fashion MNIST classification using CNN
   | Validation | **88.93%** |  
     
 ### Training & Validation loss visualisation  
+  
+  ![Plot](https://github.com/sanjay-thiyagarajan/fashion_mnist/blob/main/images/download%20(2).png)  
+    
+### Libraries used: 
+- Tensorflow  
+- matplotlib  
+- sklearn  
+- numpy
