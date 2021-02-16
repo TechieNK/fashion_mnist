@@ -2,4 +2,11 @@
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjay-thiyagarajan/fashion_mnist/blob/main/fashion_classifier.ipynb?authuser=1)  
 
-My take on the popular Fasion MNIST classification using CNN
+My take on the popular Fashion MNIST classification using CNN  
+ 
+  | **Data** | **Accuracy** |
+  | ---- | -------- |
+  | Training | **90.85%** |
+  | Validation | **88.93%** |  
+    
+### Training & Validation loss visualisation  
